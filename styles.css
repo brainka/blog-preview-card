@@ -101,7 +101,3 @@ h1:hover {
 	font-size: 1.4rem;
 }
 
-@media screen and (max-width: 768px) {
-	.card-container > img {
-	}
-}
