@@ -19,6 +19,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
+	padding: 0 2.4rem;
 
 	font-family: 'Figtree', sans-serif;
 }
@@ -100,4 +101,3 @@ h1:hover {
 .date {
 	font-size: 1.4rem;
 }
-
